@@ -6,7 +6,7 @@ title: Startups
 
 ## Motivation
 
-From 766 Lab at Anhui Agricultural University, we are driven by the spirit of AI for Agriculture – cultivating innovation, growth, and impact, we aim to build solutions that matter. Beyond our research and ambitions, we’re also a VALORANT squad – because every great team needs its moments of play.<br>
+From 766 Lab at Anhui Agricultural University, we are driven by the spirit of AI for Agriculture surpervised by _Prof. Wu_– cultivating innovation, growth, and impact, we aim to build solutions that matter. Beyond our research and ambitions, we’re also a VALORANT squad – because every great team needs its moments of play.<br>
 
 ---
 
@@ -37,10 +37,16 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 ## Team Members
 
 - **Alumni & Co-founders:** Zhiyu Ma, Wenyu Wang, Aoyu Liu and to the many outstanding senior alumni of the lab, I extend my gratitude without naming each individually.
-- **Members @2020:** Haoyu Wang(*Now pursuing Ph.D in SEU*), Cheng Feng(*Now pursuing Master in UCAS*), Xi Xia(*Now pursuing Master in AHU*)
-- **Members @2021:** Sifan He(*Going to pursue Master in USTC*)
-- **Members @2022:** Wenyu Wang(*Cyber Secirity*), Xin Shu
-- **Members @2023-204:** Join us!<br>
+- **Members @2020:** 
+    - Haoyu Wang(*Now pursuing Ph.D in SEU*) 
+    - Cheng Feng(*Now pursuing Master in UCAS*)
+    - Xi Xia(*Now pursuing Master in AHU*)
+- **Members @2021:** 
+    - Sifan He(*Going to pursue Master in USTC*)
+- **Members @2022:** 
+    - Wenyu Wang(*Cyber Secirity*)
+    - Xin Shu(*Cyber Secirity*)
+- **Members @2023-204: Join us!**
 
 ---
 
