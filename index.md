@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images\5.jpg" class="floatpic">
+<img src="images/teams/5.jpg" class="floatpic">
 
 Here is **Haoyu Wang (Randall, 王浩宇)**.<br>
 
@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a position for 2025 Fall admission. If you have any information, please contact me!</font>**
 
-- [Artificial Intelligence Security]
+- Artificial Intelligence Security
 - Intrusion detection systems powered by AI
 - Adversarial attacks and defenses
 - Fairness, accountability, and transparency in AI
@@ -27,6 +27,23 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
+## Research Interests
+
+
+- Artificial Intelligence Security
+- Intrusion detection systems powered by AI
+- Adversarial attacks and defenses
+- Fairness, accountability, and transparency in AI
+
+My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and  **Artificial Intelligence Security**. In a word, advanced technologies like ML and AI Security positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+---
+
+## Work/Intern Experience:
+  - Intern of TP at VWAC From 2023.10.20-2024.1.20
+
+---
+    
 ## News and Updates
 
 <!-- - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!

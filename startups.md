@@ -46,20 +46,20 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 
 ## Some Group Photos
 
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
+> Our group
 
 <div>
-<img src="images\teams\3.jpg">
+<img src="images/teams/3.jpg">
 </div>
 <br>
 
 <div>
-<img src="images\teams\766_1.jpg">
+<img src="images/teams/766_1.jpg">
 </div>
 <br>
 
 <div>
-<img src="images\teams\4.jpg">
+<img src="images/teams/4.jpg">
 </div>
 <br>
 <!-- 
