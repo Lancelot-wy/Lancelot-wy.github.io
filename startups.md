@@ -40,7 +40,7 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 - **Members @2020:** Haoyu Wang, Cheng Feng, Xi Xia
 - **Members @2021:** Sifan He
 - **Members @2022:** Wenyu Wang(*Cyber Secirity*), Xin Shu
-- **Members @2023-204:** [Join us!]<br>
+- **Members @2023-204:** Join us!<br>
 
 ---
 
@@ -49,21 +49,17 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 > Our group
 
 <div>
-<img src="images/teams/3.jpg">
+<img src="https://lancelot-wy.github.io/images/teams/3.jpg">
 </div>
 <br>
 
 <div>
-<img src="images/teams/766_1.jpg">
+<img src="https://lancelot-wy.github.io/images/teams/766_1.jpg">
 </div>
 <br>
 
 <div>
-<img src="images/teams/4.jpg">
+<img src="https://lancelot-wy.github.io/images/teams/4.jpg">
 </div>
 <br>
-<!-- 
-<div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
-</div>
-<br> -->
+
