@@ -36,19 +36,30 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 
 ## Team Members
 
-- **Alumni & Co-founders:** Zhiyu Ma, Wenyu Wang, Aoyu Liu and to the many outstanding senior alumni of the lab, I extend my gratitude without naming each individually.
-- **Members @2020:** 
-    - Haoyu Wang(*Now pursuing Ph.D in SEU*) 
-    - Cheng Feng(*Now pursuing Master in UCAS*)
-    - Xi Xia(*Now pursuing Master in AHU*)
-- **Members @2021:** 
-    - Sifan He(*Going to pursue Master in USTC*)
-- **Members @2022:** 
-    - Wenyu Wang(*Cyber Secirity*)
-    - Xin Shu(*Cyber Secirity*)
-- **Members @2023-204: Join us!**
+### **Mentor**
+- **Prof. Yunzhi Wu**  
+  _Our esteemed mentor, whose guidance and support have been invaluable to the success of the lab._
 
----
+### **Alumni & Co-founders**  
+- **Zhiyu Ma** (*Now pursuing Ph.D at USTC*)  
+- **Wenyu Wang** (*Master of NJU, Now at Telecom-JiangSu*)  
+- **Aoyu Liu** (*Now pursuing Ph.D at Tongji University*)  
+- To the many outstanding senior alumni of the lab, we extend our heartfelt gratitude, though we cannot name each individually.
+
+### **Members @2020**  
+- **Haoyu Wang** (*Now pursuing Ph.D at SEU*)  
+- **Cheng Feng** (*Now pursuing Master at UCAS*)  
+- **Xi Xia** (*Now pursuing Master at AHU*)  
+
+### **Members @2021**  
+- **Sifan He** (*Going to pursue Master at USTC*)  
+
+### **Members @2022**  
+- **Wenyu Wang** (*Cyber Security*)  
+- **Xin Shu** (*Cyber Security*)  
+
+### **Members @2023-2024**  
+- Join us!
 
 ## Some Group Photos
 
