@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /startups/index.html
-title: Startups
+permalink: /766 Lab/index.html
+title: 766 Lab
 ---
 
 ## Motivation
