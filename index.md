@@ -8,9 +8,9 @@ layout: page
 
 Here is **Haoyu Wang (Randall, 王浩宇)**.<br>
 
-I am a Ph.D. student in the college of Cybersecurity at the Southeast University, Prior to SEU,  I have worked on AI4Agri, AIoT and Visualization with [Prof. Wu]. 
+I am a Ph.D. student in the college of Cybersecurity at the Southeast University, Prior to SEU,  I have worked on AI4Agri, AIoT and Visualization with _Prof. Wu_. 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - randall_hy [at] 163.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at _randall_hy[at]163.com_
 
 ---
 
@@ -43,15 +43,15 @@ My current research focuses on practical problems that artificial intelligence f
   - Intern of TP at VWAC From 2023.10.20-2024.1.20
 
 ---
-    
+
 ## News and Updates
 
 <!-- - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University! -->
-- **June 2024：**Very excited to be awarded as the Outstanding Graduates of Anhui Province.!
-- **Sept 2021：**Started research programme at [AIE Lab Room 766], advised by Prof. Wu.
+- **June 2024：**Very excited to be awarded as the Outstanding Graduates of Anhui Province!
+- **Sept 2021：**Started research programme at [AIE Lab Room 766], advised by _Prof. Wu_.
 
 <br>
 
