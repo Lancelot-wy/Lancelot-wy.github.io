@@ -37,8 +37,8 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 ## Team Members
 
 - **Alumni & Co-founders:** Zhiyu Ma, Wenyu Wang, Aoyu Liu and to the many outstanding senior alumni of the lab, I extend my gratitude without naming each individually.
-- **Members @2020:** Haoyu Wang, Cheng Feng, Xi Xia
-- **Members @2021:** Sifan He
+- **Members @2020:** Haoyu Wang(*Now pursuing Ph.D in SEU*), Cheng Feng(*Now pursuing Master in UCAS*), Xi Xia(*Now pursuing Master in AHU*)
+- **Members @2021:** Sifan He(*Going to pursue Master in USTC*)
 - **Members @2022:** Wenyu Wang(*Cyber Secirity*), Xin Shu
 - **Members @2023-204:** Join us!<br>
 
@@ -60,6 +60,11 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 
 <div>
 <img src="https://lancelot-wy.github.io/images/teams/4.jpg">
+</div>
+<br>
+
+<div>
+<img src="https://lancelot-wy.github.io/images/teams/6.jpg">
 </div>
 <br>
 
