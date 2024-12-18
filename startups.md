@@ -8,13 +8,13 @@ title: 766 Lab
 
 From 766 Lab at Anhui Agricultural University, we are driven by the spirit of AI for Agriculture, surpervised by _Prof. Wu_.
 
-Beyond our research and ambitions, we’re also a VALORANT squad.<br>
-
 ---
 
 ## AIE Lab Room 766 Undergraduate Team
 
 I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded peers from various majors within the School of Information and Artificial Intelligence. By 2024, the team has grown to include nearly 20 outstanding members, some of whom have pursued further studies at prestigious institutions such as USTC,UCAS,SEU and NJU.<br>
+
+---
 
 ## Team News
 
