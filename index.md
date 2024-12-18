@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/teams/5.jpg" class="floatpic">
+<img src="images/teams/4.jpg" class="floatpic">
 
 Here is **Haoyu Wang (Randall, 王浩宇)**.<br>
 

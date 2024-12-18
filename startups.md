@@ -6,9 +6,9 @@ title: 766 Lab
 
 ## Motivation
 
-From 766 Lab at Anhui Agricultural University, we are driven by the spirit of AI for Agriculture, surpervised by _Prof. Wu_– cultivating innovation, growth, and impact, we aim to build solutions that matter.
+From 766 Lab at Anhui Agricultural University, we are driven by the spirit of AI for Agriculture, surpervised by _Prof. Wu_.
 
-Beyond our research and ambitions, we’re also a VALORANT squad – because every great team needs its moments of play.<br>
+Beyond our research and ambitions, we’re also a VALORANT squad.<br>
 
 ---
 
@@ -23,7 +23,7 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 - **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
 - **June 2023：**Our team won a national undergraduate research training grant (about $3000). -->
 - **Oct 2023：**will be updated soon!
-- **May 2024：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!]<br>
+- **May 2024：**If you are interested in the IoT, robotics, or AIGC, welcome to *join us!*
 
 ---
 
@@ -46,7 +46,7 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 - **Zhiyu Ma** (*Now pursuing Ph.D at USTC*)  
 - **Wenyu Wang** (*Master of NJU, Now at Telecom-JiangSu*)  
 - **Aoyu Liu** (*Now pursuing Ph.D at Tongji University*)  
- _To the many outstanding senior alumni of the lab, we extend our heartfelt gratitude, though we cannot name each individually._
+- _To the many outstanding senior alumni of the lab, we extend our heartfelt gratitude, though we cannot name each individually._
 
 ### **Members @2020**  
 - **Haoyu Wang** (*Now pursuing Ph.D at SEU*)  
@@ -60,8 +60,7 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 - **Wenyu Wang** (*Cyber Security*)  
 - **Xin Shu** (*Cyber Security*)  
 
-### **Members @2023-2024**  
-- Join us!
+### **Members @2023-2024**  Join us!
 
 ## Some Group Photos
 
@@ -77,10 +76,10 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 </div>
 <br>
 
-<div>
+<!-- <div>
 <img src="https://lancelot-wy.github.io/images/teams/4.jpg">
 </div>
-<br>
+<br> -->
 
 <div>
 <img src="https://lancelot-wy.github.io/images/teams/6.jpg">
