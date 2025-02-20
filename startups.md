@@ -49,7 +49,7 @@ I joined the AIE LAB 766 as a sophomore, where I continuously met like-minded pe
 - _To the many outstanding senior alumni of the lab, we extend our heartfelt gratitude, though we cannot name each individually._
 
 ### **Members @2020**  
-- **Haoyu Wang** (*Now pursuing Ph.D at SEU*)  
+- **Haoyu Wang** (*                           *)  
 - **Cheng Feng** (*Now pursuing Master at UCAS*)  
 - **Xi Xia** (*Now pursuing Master at AHU*)  
 

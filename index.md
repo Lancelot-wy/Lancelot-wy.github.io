@@ -11,7 +11,7 @@ Here is **Haoyu Wang (Randall, 王浩宇)**.<br>
 I have worked on AI4Agri, AIoT and Visualization with _Prof. Wu_ in AHAU.
 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at _randall_hy[at]163.com_
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at *Randall_hy[at]163.com*
 
 ---
 
@@ -29,6 +29,7 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## Work/Intern Experience:
+  - Research assistant at AIE Lab of Ahau 2021.10-2023.10
   - Intern of TP at VWAC From 2023.10.20-2024.1.20
 
 ---
