@@ -6,44 +6,80 @@ layout: page
 
 <img src="images/teams/4.jpg" class="floatpic">
 
-Here is **Haoyu Wang (Randall, 王浩宇)**.<br>
+Hi, I am **Haoyu Wang (王浩宇)**.
 
-I have worked on AI4Agri, AIoT and Visualization with _Prof. Wu_ in AHAU.
+I am an M.Phil. student in Artificial Intelligence at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**, starting from Sept. 2025. 
+Previously, I received my B.Eng. degree in Computer Science and Technology from **Anhui Agricultural University** in June 2024, graduating as an **Outstanding Graduate of Anhui Province**.
 
+My research journey includes experiences at **Southeast University** and **Beijing QiAnXin Technology Research Institute**.
+I am passionate about **Multimodal Large Models (VLM)**, **Computer Vision (CV)**, and **AI Safety**.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at *Randall_hy[at]163.com*
+If you are interested in any aspect of my work, feel free to reach out to me at *225085019[at]link.cuhk.edu.cn*.
 
 ---
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a position for 2025 Fall admission. If you have any information, please contact me!</font>**
+- **Multimodal Large Models (VLM)**
+- **Computer Vision (CV)**
+- **Machine Learning (ML)**
+- **AI Safety**
 
-- Artificial Intelligence Security
-- Intrusion detection systems powered by AI
-- Adversarial attacks and defenses
-- Fairness, accountability, and transparency in AI
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and  **Artificial Intelligence Security**. In a word, advanced technologies like ML and AI Security positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence faces in real life, particularly in the safety and capabilities of large models.
 
 ---
 
-## Work/Intern Experience:
-  - Research assistant at AIE Lab of Ahau 2021.10-2023.10
-  - Intern of TP at VWAC From 2023.10.20-2024.1.20
+## Education
+
+- **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)** (Sept. 2025 -- Present)
+  - **M.Phil. in Artificial Intelligence**
+  - Shenzhen, China.
+
+- **Anhui Agricultural University** (Sept. 2020 -- June 2024)
+  - **B.Eng. in Computer Science and Technology**
+  - Hefei, China.
+  - **GPA:** 88.78/100 | **Rank:** 2/423 (Top 0.5%) | **IELTS:** 7.0
+  - **Awards:** Outstanding Graduate of Anhui Province; National Scholarship equivalent (Merit Student).
+
+---
+
+## Research & Intern Experience
+
+- **Beijing QiAnXin Technology Research Institute** (July 2025 -- Nov. 2025)
+  - *Algorithm Research Intern (LLM & API Safety)* | Beijing, China
+  - Engineered an automated pipeline to clean 300k+ HTTP logs using semantic clustering, which improved data validity from 40% to 80% for model fine-tuning.
+  - Explored automated security testing workflows using LLM Agent tools (e.g., BrowserUse) and evaluated their efficacy in high-risk operation scenarios.
+
+- **Southeast University (Key Lab of Network & Info Security)** (Dec. 2024 -- June 2025)
+  - *Core Researcher (NSFC Project): Intelligent Identification of Encrypted Traffic* | Nanjing, China
+  - Designed a Deep Learning-based temporal feature extraction network to process high-dimensional sequential data for cloud encrypted traffic identification.
+  - Conducted inverse analysis on unknown protocols and utilized sequence models to capture spatiotemporal correlations, significantly improving identification accuracy in complex environments.
+
+- **Anhui Zhongke Jingge Co., Ltd.** (Mar. 2024 -- June 2024)
+  - *Algorithm Research Intern (RAG & SFT)* | Hefei, China
+  - Fine-tuned Llama 3 via LoRA for Text-to-Shell conversion; optimized Rank/Alpha parameters for high-precision command generation.
+  - Architected a Retrieval-Augmented Generation (RAG) system with vector databases, effectively mitigating model hallucinations in private domain tasks.
+
+- **MiniMind-V: End-to-End Lightweight Multimodal Large Model** (Dec. 2025 -- Jan. 2026)
+  - *Project Lead, CUHK-SZ* | Shenzhen, China
+  - Constructed a VLM from scratch using a ViT encoder and Llama-based decoder; manually implemented the Projector (MLP) for Cross-modal Alignment.
+  - Built a full-stack training framework (Pre-train & SFT) with Automatic Mixed Precision (AMP) and dynamic batching; successfully injected instruction-following capabilities on consumer-grade GPUs.
+
+<!--
+- **AIE Lab of AHAU** (2021.10 - 2023.10)
+  - Research Assistant
+-->
+
+---
+
+## Technical Skills
+- **Languages & Tools:** Python, C/C++, PyTorch, MATLAB, SQL, Docker, Linux, Git.
+- **Core Competencies:** LLM Training (Pre-train/SFT/DPO), Multimodal Learning, RAG, Agentic Workflow.
 
 ---
 
 ## News and Updates
 
-<!-- - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University! -->
 - **June 2024：**Very excited to be awarded as the Outstanding Graduates of Anhui Province!
 - **Sept 2021：**Started research programme at [AIE Lab Room 766], advised by _Prof. Wu_.
-
-<br>
-
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 

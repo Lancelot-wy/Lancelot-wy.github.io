@@ -13,8 +13,8 @@ title: Awards
 
 ## Competitions
 
-- Aug 2023：National-Level 1st Prize, Chinese Collegiate Computing Competition
-- Aug 2023：National-Level 3rd Prize, Chinese Collegiate Computing Competition
-- Aug 2022：National 2nd Prize, “Huawei Cup” National College Students Internet of Things Design Competition
-- Dec 2022：National 2nd Prize, China Undergraduate Physics Experiment Competition
+- Aug 2023：**National 1st Prize**, Chinese Collegiate Computing Competition
+- Aug 2023：National 3rd Prize, "Beidou Cup" Innovation Competition (*Only winner in Anhui undergrads*)
+- Aug 2022：**National 2nd Prize**, "Huawei Cup" National College Students Internet of Things Design Competition
+- Dec 2021：**National 2nd Prize**, China Undergraduate Physics Experiment Competition (*Provincial Highest*)
 <br>
