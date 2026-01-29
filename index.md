@@ -14,7 +14,7 @@ Previously, I received my B.Eng. degree in Computer Science and Technology from 
 My research journey includes experiences at **Southeast University** and **Beijing QiAnXin Technology Research Institute**.
 I am passionate about **Multimodal Large Models (VLM)**, **Computer Vision (CV)**, and **AI Safety**.
 
-If you are interested in any aspect of my work, feel free to reach out to me at *225085019[at]link.cuhk.edu.cn*.
+If you are interested in any aspect of my work, feel free to reach out to me at <a href="mailto:225085019@link.cuhk.edu.cn">225085019@link.cuhk.edu.cn</a>.
 
 ---
 
@@ -32,43 +32,25 @@ My current research focuses on practical problems that artificial intelligence f
 ## Education
 
 - **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)** (Sept. 2025 -- Present)
-  - **M.Phil. in Artificial Intelligence**
-  - Shenzhen, China.
+  <br>M.Phil. in Artificial Intelligence | Shenzhen, China
 
 - **Anhui Agricultural University** (Sept. 2020 -- June 2024)
-  - **B.Eng. in Computer Science and Technology**
-  - Hefei, China.
-  - **GPA:** 88.78/100 | **Rank:** 2/423 (Top 0.5%) | **IELTS:** 7.0
-  - **Awards:** Outstanding Graduate of Anhui Province; National Scholarship equivalent (Merit Student).
+  <br>B.Eng. in Computer Science and Technology | Hefei, China
+  <br>GPA: 88.78/100 | Rank: 2/423 (Top 0.5%) | IELTS: 7.0
+  <br>Awards: Outstanding Graduate of Anhui Province; National Scholarship equivalent (Merit Student).
 
 ---
 
-## Research & Intern Experience
+## Intern Experience
 
 - **Beijing QiAnXin Technology Research Institute** (July 2025 -- Nov. 2025)
-  - *Algorithm Research Intern (LLM & API Safety)* | Beijing, China
-  - Engineered an automated pipeline to clean 300k+ HTTP logs using semantic clustering, which improved data validity from 40% to 80% for model fine-tuning.
-  - Explored automated security testing workflows using LLM Agent tools (e.g., BrowserUse) and evaluated their efficacy in high-risk operation scenarios.
-
-- **Southeast University (Key Lab of Network & Info Security)** (Dec. 2024 -- June 2025)
-  - *Core Researcher (NSFC Project): Intelligent Identification of Encrypted Traffic* | Nanjing, China
-  - Designed a Deep Learning-based temporal feature extraction network to process high-dimensional sequential data for cloud encrypted traffic identification.
-  - Conducted inverse analysis on unknown protocols and utilized sequence models to capture spatiotemporal correlations, significantly improving identification accuracy in complex environments.
+  <br>Algorithm Research Intern (LLM & API Safety) | Beijing, China
 
 - **Anhui Zhongke Jingge Co., Ltd.** (Mar. 2024 -- June 2024)
-  - *Algorithm Research Intern (RAG & SFT)* | Hefei, China
-  - Fine-tuned Llama 3 via LoRA for Text-to-Shell conversion; optimized Rank/Alpha parameters for high-precision command generation.
-  - Architected a Retrieval-Augmented Generation (RAG) system with vector databases, effectively mitigating model hallucinations in private domain tasks.
+  <br>Algorithm Research Intern (RAG & SFT) | Hefei, China
 
-- **MiniMind-V: End-to-End Lightweight Multimodal Large Model** (Dec. 2025 -- Jan. 2026)
-  - *Project Lead, CUHK-SZ* | Shenzhen, China
-  - Constructed a VLM from scratch using a ViT encoder and Llama-based decoder; manually implemented the Projector (MLP) for Cross-modal Alignment.
-  - Built a full-stack training framework (Pre-train & SFT) with Automatic Mixed Precision (AMP) and dynamic batching; successfully injected instruction-following capabilities on consumer-grade GPUs.
-
-<!--
-- **AIE Lab of AHAU** (2021.10 - 2023.10)
-  - Research Assistant
--->
+- **VWAC** (Oct. 2023 -- Jan. 2024)
+  <br>Intern of TP
 
 ---
 
